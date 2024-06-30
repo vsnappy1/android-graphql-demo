@@ -1,2 +1,2 @@
 # android-graphql-demo
-An android app which uses graphql to get posts and publish post.
+An android app which demonstrate how to use graphql query and mutation.
